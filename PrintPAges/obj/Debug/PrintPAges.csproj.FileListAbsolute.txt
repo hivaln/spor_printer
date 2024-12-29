@@ -1,0 +1,15 @@
+C:\Users\lenov\Desktop\PrintPAges\PrintPAges\bin\Debug\PrintPAges.exe.config
+C:\Users\lenov\Desktop\PrintPAges\PrintPAges\bin\Debug\PrintPAges.exe
+C:\Users\lenov\Desktop\PrintPAges\PrintPAges\bin\Debug\PrintPAges.pdb
+C:\Users\lenov\Desktop\PrintPAges\PrintPAges\obj\Debug\PrintPAges.csproj.AssemblyReference.cache
+C:\Users\lenov\Desktop\PrintPAges\PrintPAges\obj\Debug\PrintPAges.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenov\Desktop\PrintPAges\PrintPAges\obj\Debug\PrintPAges.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\PrintPAges\PrintPAges\obj\Debug\PrintPAges.exe
+C:\Users\lenov\Desktop\PrintPAges\PrintPAges\obj\Debug\PrintPAges.pdb
+D:\Documents\ASOI\PrintPAges\PrintPAges\bin\Debug\PrintPAges.exe.config
+D:\Documents\ASOI\PrintPAges\PrintPAges\bin\Debug\PrintPAges.exe
+D:\Documents\ASOI\PrintPAges\PrintPAges\bin\Debug\PrintPAges.pdb
+D:\Documents\ASOI\PrintPAges\PrintPAges\obj\Debug\PrintPAges.csproj.AssemblyReference.cache
+D:\Documents\ASOI\PrintPAges\PrintPAges\obj\Debug\PrintPAges.csproj.CoreCompileInputs.cache
+D:\Documents\ASOI\PrintPAges\PrintPAges\obj\Debug\PrintPAges.exe
+D:\Documents\ASOI\PrintPAges\PrintPAges\obj\Debug\PrintPAges.pdb
